@@ -1,0 +1,4 @@
+{
+  "plugin.netlify-dns.name": "Netlify",
+  "plugin.netlify-dns.description": "ACME DNS-01 via Netlify."
+}

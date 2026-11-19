@@ -1,0 +1,4 @@
+{
+  "plugin.netlify-dns.name": "Netlify",
+  "plugin.netlify-dns.description": "通过 Netlify 完成 ACME DNS-01 验证。"
+}

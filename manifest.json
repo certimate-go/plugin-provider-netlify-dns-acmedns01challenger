@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "netlify",
+  "binary": "netlify-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Netlify.",
+  "display_name_key": "plugin.netlify-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "netlify-dns",
+  "provider_aliases": [
+    "netlify"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}
